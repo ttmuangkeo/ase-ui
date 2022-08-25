@@ -1,6 +1,6 @@
-# LayerDraw 2.0
+# ASE UI
 
-LayerDraw 2.0 is a Rails 5 application using Webpacker for its VueJS front end.
+ASE UI is a Rails 5 application using Webpacker for its VueJS front end.
 
 ## Development
 

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title></title>
+    <%= csrf_meta_tags %>
+    <%= csp_meta_tag %>
+    <%= stylesheet_link_tag 'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Primer/11.0.0/build.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@moxiworks/project-vitruvius@<%= vitruvius_build %>/build/vitruvius-icons.css">
+
+    <script src="//maps.googleapis.com/maps/api/js?client=gme-windermeresolutions&libraries=drawing,places,geometry"></script>
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.9.1/underscore-min.js"></script>
+    <%= javascript_include_tag "application"  %>
+    <%= javascript_pack_tag 'layer_vue' %>
+    <script>
+      window.base_service = "<%= "#{Rails.application.config.base_service}/service/#{Rails.application.config.base_version}" %>";
+    </script>
+  </head>
+
+  <body>
+
+  </body>
+</html>

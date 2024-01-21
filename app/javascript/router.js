@@ -5,6 +5,7 @@ import Reprocess from './views/Reprocess';
 import Brand from './views/Brand';
 import AllCompany from './views/AllCompany';
 import OpenHouse from './views/OpenHouse';
+import Brytecore from './views/Brytecore';
 
 Vue.use(Router);
 
@@ -22,6 +23,11 @@ export default new Router({
       path: '/reprocess',
       name: 'reprocess',
       component: Reprocess
+    },
+    {
+      path: '/brytecore',
+      name: 'brytecore',
+      component: Brytecore
     },
     {
       path: '/brand/:companyId',

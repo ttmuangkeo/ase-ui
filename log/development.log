@@ -12417,3 +12417,271 @@ Processing by WelcomeController#index as HTML
 Completed 200 OK in 2019ms (Views: 2018.5ms)
 
 
+Started GET "/" for ::1 at 2024-01-21 00:10:28 -0800
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.9ms)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 1373ms (Views: 1371.4ms)
+
+
+Started GET "/" for ::1 at 2024-01-21 00:10:46 -0800
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+[Webpacker] Compiling...
+[Webpacker] Compiled all packs in /Users/timmuangkeo/Desktop/fork/ase-ui/public/packs
+[Webpacker] Browserslist: caniuse-lite is outdated. Please run next command `yarn upgrade`
+
+Completed 200 OK in 1890ms (Views: 1886.9ms)
+
+
+Started GET "/" for ::1 at 2024-01-21 00:10:57 -0800
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (2.6ms)
+[Webpacker] Compiling...
+[Webpacker] Compiled all packs in /Users/timmuangkeo/Desktop/fork/ase-ui/public/packs
+[Webpacker] Browserslist: caniuse-lite is outdated. Please run next command `yarn upgrade`
+
+Completed 200 OK in 1639ms (Views: 1633.6ms)
+
+
+Started GET "/" for ::1 at 2024-01-21 00:11:21 -0800
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.9ms)
+[Webpacker] Compiling...
+[Webpacker] Compiled all packs in /Users/timmuangkeo/Desktop/fork/ase-ui/public/packs
+[Webpacker] Browserslist: caniuse-lite is outdated. Please run next command `yarn upgrade`
+
+Completed 200 OK in 1526ms (Views: 1522.7ms)
+
+
+Started GET "/" for ::1 at 2024-01-21 00:11:51 -0800
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+[Webpacker] Compiling...
+[Webpacker] Compiled all packs in /Users/timmuangkeo/Desktop/fork/ase-ui/public/packs
+[Webpacker] Browserslist: caniuse-lite is outdated. Please run next command `yarn upgrade`
+
+Completed 200 OK in 1602ms (Views: 1597.8ms)
+
+
+Started GET "/" for ::1 at 2024-01-21 00:11:54 -0800
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (1.0ms)
+[Webpacker] Everything's up-to-date. Nothing to do
+Completed 200 OK in 39ms (Views: 35.5ms)
+
+
+Started GET "/" for ::1 at 2024-01-21 00:12:12 -0800
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.3ms)
+[Webpacker] Compiling...
+[Webpacker] Compiled all packs in /Users/timmuangkeo/Desktop/fork/ase-ui/public/packs
+[Webpacker] Browserslist: caniuse-lite is outdated. Please run next command `yarn upgrade`
+
+Completed 200 OK in 1594ms (Views: 1593.3ms)
+
+
+Started GET "/" for ::1 at 2024-01-21 00:12:19 -0800
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+[Webpacker] Compiling...
+[Webpacker] Compilation failed:
+Hash: e8aef1caa0d82334a2c3
+Version: webpack 4.39.1
+Time: 752ms
+Built at: 01/21/2024 12:12:20 AM
+                                     Asset       Size       Chunks             Chunk Names
+    js/application-2181adcc3224cdc0c9c1.js   4.72 KiB  application  [emitted]  application
+js/application-2181adcc3224cdc0c9c1.js.map    4.5 KiB  application  [emitted]  application
+      js/layer_vue-2922de06b55fbef9ae90.js    611 KiB    layer_vue  [emitted]  layer_vue
+  js/layer_vue-2922de06b55fbef9ae90.js.map    654 KiB    layer_vue  [emitted]  layer_vue
+                             manifest.json  689 bytes               [emitted]  
+Entrypoint application = js/application-2181adcc3224cdc0c9c1.js js/application-2181adcc3224cdc0c9c1.js.map
+Entrypoint layer_vue = js/layer_vue-2922de06b55fbef9ae90.js js/layer_vue-2922de06b55fbef9ae90.js.map
+[./app/javascript/app.vue] 1.17 KiB {layer_vue} [built]
+[./app/javascript/app.vue?vue&type=script&lang=js&] 364 bytes {layer_vue} [built]
+[./app/javascript/app.vue?vue&type=style&index=0&id=6fb8108a&scoped=true&lang=css&] 760 bytes {layer_vue} [built]
+[./app/javascript/app.vue?vue&type=template&id=6fb8108a&scoped=true&] 213 bytes {layer_vue} [built]
+[./app/javascript/contrib/vue_filters.js] 224 bytes {layer_vue} [built]
+[./app/javascript/data/Store.js] 1000 bytes {layer_vue} [built]
+[./app/javascript/packs/application.js] 845 bytes {application} [built]
+[./app/javascript/packs/layer_vue.js] 469 bytes {layer_vue} [built]
+[./app/javascript/router.js] 921 bytes {layer_vue} [built]
+[./app/javascript/views/AllCompany.vue] 1.17 KiB {layer_vue} [built]
+[./app/javascript/views/Brand.vue] 1.07 KiB {layer_vue} [built]
+[./app/javascript/views/Home.vue] 1.18 KiB {layer_vue} [built]
+[./app/javascript/views/OpenHouse.vue] 1.09 KiB {layer_vue} [built]
+[./app/javascript/views/Reprocess.vue] 1.16 KiB {layer_vue} [built]
+[./node_modules/webpack/buildin/global.js] (webpack)/buildin/global.js 472 bytes {layer_vue} [built]
+    + 89 hidden modules
+
+ERROR in ./app/javascript/router.js
+Module not found: Error: [CaseSensitivePathsPlugin] `/Users/timmuangkeo/Desktop/fork/ase-ui/app/javascript/views/brytecore.vue` does not match the corresponding path on disk `Brytecore.vue`.
+ @ ./app/javascript/router.js 8:0-42 24:15-24
+ @ ./app/javascript/packs/layer_vue.js
+
+
+Browserslist: caniuse-lite is outdated. Please run next command `yarn upgrade`
+
+Completed 200 OK in 1625ms (Views: 1621.7ms)
+
+
+Started GET "/" for ::1 at 2024-01-21 00:12:49 -0800
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 28ms (Views: 24.8ms)
+
+
+Started GET "/" for ::1 at 2024-01-21 00:13:52 -0800
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 19ms (Views: 17.3ms)
+
+
+Started GET "/" for ::1 at 2024-01-21 00:13:54 -0800
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 26ms (Views: 23.2ms)
+
+
+Started GET "/" for ::1 at 2024-01-21 00:13:55 -0800
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 31ms (Views: 28.0ms)
+
+
+Started GET "/" for ::1 at 2024-01-21 00:13:55 -0800
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 31ms (Views: 27.8ms)
+
+
+Started GET "/" for ::1 at 2024-01-21 00:13:57 -0800
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 28ms (Views: 23.9ms)
+
+
+Started GET "/" for ::1 at 2024-01-21 00:13:57 -0800
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 44ms (Views: 36.4ms)
+
+
+Started GET "/" for ::1 at 2024-01-21 00:13:58 -0800
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 36ms (Views: 33.4ms)
+
+
+Started GET "/" for ::1 at 2024-01-21 00:14:00 -0800
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 28ms (Views: 23.9ms)
+
+
+Started GET "/" for ::1 at 2024-01-21 00:14:04 -0800
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.8ms)
+[Webpacker] Compiling...
+[Webpacker] Compiled all packs in /Users/timmuangkeo/Desktop/fork/ase-ui/public/packs
+[Webpacker] Browserslist: caniuse-lite is outdated. Please run next command `yarn upgrade`
+
+Completed 200 OK in 2142ms (Views: 2139.8ms)
+
+
+Started GET "/api/get_company" for ::1 at 2024-01-21 00:16:45 -0800
+Processing by ApiController#get_company as */*
+Completed 200 OK in 1411ms (Views: 77.4ms)
+
+
+Started GET "/api/get_brand/windermere" for ::1 at 2024-01-21 00:16:48 -0800
+Processing by ApiController#get_brand as */*
+  Parameters: {"companyid"=>"windermere"}
+Completed 200 OK in 803ms (Views: 1.6ms)
+
+
+Started GET "/" for ::1 at 2024-01-21 00:18:15 -0800
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.8ms)
+[Webpacker] Compiling...
+[Webpacker] Compiled all packs in /Users/timmuangkeo/Desktop/fork/ase-ui/public/packs
+[Webpacker] Browserslist: caniuse-lite is outdated. Please run next command `yarn upgrade`
+
+Completed 200 OK in 2580ms (Views: 2578.7ms)
+
+
+Started GET "/" for ::1 at 2024-01-21 00:22:26 -0800
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.3ms)
+[Webpacker] Compiling...
+[Webpacker] Compiled all packs in /Users/timmuangkeo/Desktop/fork/ase-ui/public/packs
+[Webpacker] Browserslist: caniuse-lite is outdated. Please run next command `yarn upgrade`
+
+Completed 200 OK in 1841ms (Views: 1839.9ms)
+
+
+Started GET "/" for ::1 at 2024-01-21 00:22:57 -0800
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.3ms)
+[Webpacker] Compiling...
+[Webpacker] Compiled all packs in /Users/timmuangkeo/Desktop/fork/ase-ui/public/packs
+[Webpacker] Browserslist: caniuse-lite is outdated. Please run next command `yarn upgrade`
+
+Completed 200 OK in 1592ms (Views: 1590.7ms)
+
+
+Started GET "/" for ::1 at 2024-01-21 00:23:49 -0800
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.6ms)
+[Webpacker] Compiling...
+[Webpacker] Compiled all packs in /Users/timmuangkeo/Desktop/fork/ase-ui/public/packs
+[Webpacker] Browserslist: caniuse-lite is outdated. Please run next command `yarn upgrade`
+
+Completed 200 OK in 1523ms (Views: 1521.7ms)
+
+
+Started GET "/" for ::1 at 2024-01-21 00:24:18 -0800
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.3ms)
+[Webpacker] Compiling...
+[Webpacker] Compiled all packs in /Users/timmuangkeo/Desktop/fork/ase-ui/public/packs
+[Webpacker] Browserslist: caniuse-lite is outdated. Please run next command `yarn upgrade`
+
+Completed 200 OK in 1548ms (Views: 1547.0ms)
+
+
+Started GET "/" for ::1 at 2024-01-21 00:24:33 -0800
+Processing by WelcomeController#index as HTML
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/index.html.erb within layouts/application (0.3ms)
+[Webpacker] Compiling...
+[Webpacker] Compiled all packs in /Users/timmuangkeo/Desktop/fork/ase-ui/public/packs
+[Webpacker] Browserslist: caniuse-lite is outdated. Please run next command `yarn upgrade`
+
+Completed 200 OK in 1574ms (Views: 1571.1ms)
+
+

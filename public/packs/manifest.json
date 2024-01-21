@@ -12,13 +12,13 @@
     },
     "layer_vue": {
       "js": [
-        "/packs/js/layer_vue-4353532543d3d635f3aa.js"
+        "/packs/js/layer_vue-45aa1819db87abdfb682.js"
       ],
       "js.map": [
-        "/packs/js/layer_vue-4353532543d3d635f3aa.js.map"
+        "/packs/js/layer_vue-45aa1819db87abdfb682.js.map"
       ]
     }
   },
-  "layer_vue.js": "/packs/js/layer_vue-4353532543d3d635f3aa.js",
-  "layer_vue.js.map": "/packs/js/layer_vue-4353532543d3d635f3aa.js.map"
+  "layer_vue.js": "/packs/js/layer_vue-45aa1819db87abdfb682.js",
+  "layer_vue.js.map": "/packs/js/layer_vue-45aa1819db87abdfb682.js.map"
 }

@@ -5,6 +5,7 @@
       <li><router-link v-bind:to="`/reprocess`">Realogy Reprocess</router-link></li>
       <li><router-link v-bind:to="`/company`"> company brand</router-link></li>
       <li><router-link v-bind:to="`/openhouse`"> Open House</router-link></li>
+      <li><router-link v-bind:to="`/brytecore`"> brytecore</router-link></li>
     </ul>
   </nav>
 </template>
